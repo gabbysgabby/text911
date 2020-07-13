@@ -2,7 +2,7 @@
   "name": "text911",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serene-colden-95ece2.netlify.com",
+  "homepage": "thirsty-northcutt-c78c36.netlify.app",
   "dependencies": {
     "@mapbox/mapbox-gl-geocoder": "^4.5.1",
     "escape-string-regexp": "^1.0.5",
